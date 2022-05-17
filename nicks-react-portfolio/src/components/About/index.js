@@ -4,8 +4,10 @@ import React from 'react';
 import { Col } from 'react-bootstrap';
 
 function About() {
-  return(
-
+  return (
+    <section>
+      <h1 id="about">Who am I?</h1>
+    </section>
   );
 }
 
