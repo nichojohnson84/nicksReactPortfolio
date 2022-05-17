@@ -1,9 +1,13 @@
 import React, { useState } from 'react';
 import { validateEmail } from '../../utils/helper';
 import { Row, Col } from 'react-bootstrap';
-import Resume from '../../assets/images/Nicole Wallace - Resume (August 2020).pdf';
+
 
 function ContactForm() {
+    return(
+
+        );
+    }
   // // manage form data, empty out the initialize values
   // const [formState, setFormState] = useState({ name: '', email: '', message: '' });
   // // deconstructing the formState object into it's named properties
@@ -40,8 +44,6 @@ function ContactForm() {
 
   // }
 
-  return;
-}
 
 export default ContactForm;
 
@@ -56,7 +58,7 @@ export default ContactForm;
 //             <label htmlFor="email">Email address:</label>
 //             <input type="email" class="form-control" defaultValue={email} onBlur={handleChange} name="email" />
 //         </div>
-{
+
   /* <div class="col-12">
                 <label htmlFor="message">Message:</label>
                 <textarea name="message" class="form-control" defaultValue={message} onBlur={handleChange} rows="7" />
@@ -72,4 +74,4 @@ export default ContactForm;
             </div>
         </form>
     </section> */
-}
+

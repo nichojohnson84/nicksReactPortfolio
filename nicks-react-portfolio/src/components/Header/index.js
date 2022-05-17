@@ -5,5 +5,9 @@ import Projects from '../Projects';
 import Contact from '../Contact';
 import Resume from '../Resume';
 
-function Portfolio() {}
+function Portfolio() {
+    return(
+
+        );
+}
 export default Portfolio;

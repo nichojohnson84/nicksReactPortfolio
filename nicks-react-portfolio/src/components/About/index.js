@@ -4,7 +4,9 @@ import React from 'react';
 import { Col } from 'react-bootstrap';
 
 function About() {
-  return;
+  return(
+
+  );
 }
 
 export default About;
