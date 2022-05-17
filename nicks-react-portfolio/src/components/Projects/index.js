@@ -2,10 +2,20 @@ import React from 'react';
 // import projects from src
 import projects from '../../projects.json';
 
-function ProjectCard(props) {}
+function ProjectCard(props) {
+  return;
+}
 
-function Wrapper(props) {}
+function Wrapper(props) {
+  return;
+}
 
-function Projects() {}
+function Projects() {
+  return (
+    <section>
+      <h1 id="Projects">Recent Work</h1>
+    </section>
+  );
+}
 
 export default Projects;
