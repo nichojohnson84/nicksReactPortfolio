@@ -38,6 +38,49 @@ function About() {
           </p>
         </Col>
       </div>
+      <div class="resume-container">
+        <Row>
+          <Col lg={4} md={12}>
+            <h2 class="resume">front-end technologies</h2>
+            <ul>
+              <li>HTML</li>
+              <li>CSS</li>
+              <li>JavaScript</li>
+              <li>jQuery</li>
+              <li>React.js</li>
+              <li>Framework (Bootstrap, Materalize)</li>
+              <li>UI/UX Design</li>
+              <li>Responsive Web Design</li>
+            </ul>
+          </Col>
+
+          <Col lg={4} md={12}>
+            <h2 class="resume">back-end technologies</h2>
+            <ul>
+              <li>Node.js</li>
+              <li>Express.js</li>
+              <li>MySQL (mysql lite3, mysql2)</li>
+              <li>NoSQL (MongoDB, Mongoose)</li>
+              <li>API's (web, third-party, RESTful, server-side)</li>
+              <li>Templating language (Handlebars)</li>
+            </ul>
+          </Col>
+
+          <Col lg={4} md={12}>
+            <h2 class="education">my education</h2>
+            <p>
+              <span className="school-name">University of Utah EXTENSION</span>
+              <br></br>
+              Full Stack Boot Camp - Certification Pending
+              <br></br>
+              <br></br>
+              <span className="school-name">Salt Lake Community College</span>
+              <br></br>
+              Currently Working toward finishing my Associate of Science Degree
+            </p>
+          </Col>
+        </Row>
+      </div>
     </section>
   );
 }
