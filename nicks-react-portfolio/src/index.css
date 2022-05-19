@@ -72,7 +72,7 @@ h1 {
 }
 
 .card {
-  background-color: white;
+  background-color: rgb(111, 187, 208);
   border-radius: 2px;
   height: 525px;
   margin: 1rem;
@@ -87,19 +87,19 @@ h1 {
   overflow: hidden;
   text-align: center;
   border-radius: 10px;
-  background-color: white;
+  background-color: rgb(111, 187, 208);;
 }
 .card > .img-container > img {
   width: 100%;
   padding: 25px;
-  background-color: white;
+  background-color: rgb(83, 94, 239);
 }
 
 .card > .content {
   padding-right: 1rem;
   font-size: 18px;
-  background-color: white;
-  color: #cf6a87;
+  background-color: rgb(111, 187, 208);
+  color: #615534;
   font-weight: bold;
 }
 
@@ -151,13 +151,13 @@ h1 {
 }
 
 .project-description {
-  background-color: white;
+  background-color: rgb(102, 117, 155);
   font-weight: normal;
-  color: white;
+  color: black;
 }
 
 .project-icons {
-  background-color: white;
+  background-color: rgb(46, 18, 161);
   display: flex;
   justify-content: center;
   align-content: center;
