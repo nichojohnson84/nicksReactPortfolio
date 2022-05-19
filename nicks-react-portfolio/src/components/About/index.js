@@ -1,7 +1,7 @@
 import React from 'react';
 // import images from assets
 import myImage from '../../assets/images/myImage.jpg';
-import { Col } from 'react-bootstrap';
+import { Col, Row } from 'react-bootstrap';
 
 function About() {
   return (
@@ -48,7 +48,7 @@ function About() {
               <li>JavaScript</li>
               <li>jQuery</li>
               <li>React.js</li>
-              <li>Framework (Bootstrap, Materalize)</li>
+              <li>Framework (Bootstrap, Bulma)</li>
               <li>UI/UX Design</li>
               <li>Responsive Web Design</li>
             </ul>
@@ -59,10 +59,9 @@ function About() {
             <ul>
               <li>Node.js</li>
               <li>Express.js</li>
-              <li>MySQL (mysql lite3, mysql2)</li>
+              <li>MySQL (mysql, mysql2)</li>
               <li>NoSQL (MongoDB, Mongoose)</li>
               <li>API's (web, third-party, RESTful, server-side)</li>
-              <li>Templating language (Handlebars)</li>
             </ul>
           </Col>
 

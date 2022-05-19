@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
 import About from './components/About';
+import Header from './components/Header';
 import ContactForm from './components/ContactForm';
 import Footer from './components/Footer';
 import Navigation from './components/Navigation';
@@ -10,6 +11,7 @@ import Resume from './components/Resume';
 function App() {
   return (
     <div>
+      <h1>Hello Mom</h1>
       <main>
         <Header></Header>
         <Navigation></Navigation>

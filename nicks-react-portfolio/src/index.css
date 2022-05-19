@@ -12,7 +12,7 @@ code {
 
 /* my added css */
 *  {
-  background: #ffd6e0;
+  background: #b3aaac;
   font-family: 'Cinzel', serif;
   box-sizing: border-box;
 }
@@ -21,7 +21,7 @@ code {
 
 p {
   font-size: 22px;
-  color: #cf6a87;
+  color: #0e0130;
   font-weight: bold;
   font-family: 'Cinzel', serif;
 }
@@ -51,7 +51,7 @@ h1 {
 
 .name {
   font-size: 4rem;
-  color: #660033;
+  color: #1103b1;
   display: flex;
   justify-content: center;
   align-content: center;
@@ -60,7 +60,7 @@ h1 {
 
 .job {
   font-size: 2rem;
-  color: #660033;
+  color: #1103b1;
   display: flex;
   justify-content: center;
   align-content: center;       
@@ -153,7 +153,7 @@ h1 {
 .project-description {
   background-color: white;
   font-weight: normal;
-  color: #660033;
+  color: white;
 }
 
 .project-icons {
@@ -166,7 +166,7 @@ h1 {
 #contact-form {
   margin: 15px 500px;
   font-size: 18px;
-  color: #cf6a87;
+  color: #0f2387;
   font-weight: bold;
 }
 
@@ -179,7 +179,7 @@ h1 {
 
 .resume-container {
   margin: 20px 50px;
-  color: #cf6a87;
+  color: #0f2387;
   font-weight: bold;
   display: flex;
   justify-content: center;
@@ -188,18 +188,18 @@ h1 {
 }
 
 .nav-link, .link, .btn {
-  color: #660033;
+  color: #00664e;
   font-weight: bold;
 }
 
 .nav-link:hover, .link:hover {
-  color: #cf6a87;
+  color: #0f2387;
   font-weight: bold;
   text-decoration: none;
 }
 
 .active {
-  color: #cf6a87;
+  color: #0f2387;
 }
 
 .banner {

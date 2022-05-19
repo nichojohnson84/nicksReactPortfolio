@@ -22,8 +22,8 @@
       "name": "My Work Day",
       "image": "/assets/images/myWorkDay.jpg",
       "github": "https://github.com/nichojohnson84/myWorkDay",
-      "deployedapp": "https://techly.herokuapp.com/",
-      "description": "This project is a CMS-style social networking site where developers can publish posts and comment on other developers post.",
+      "deployedapp": "https://nichojohnson84.github.io/myWorkDay/",
+      "description": "This project is designed specifically to keep track of what you need to do durring your 9-5 job. It will keep track of the time and date and let you know where you are at and what is coming up based on what you have entered and saved.", 
       "skills": "HTML | CSS | jQuery | Moment | Javascript"
       },
       {
