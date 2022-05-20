@@ -13,7 +13,6 @@ function App() {
 
   const RenderPage = () => {
     // switch statement that will return the appropriate component of the 'currentPage'
-    console.log(currentPage);
     switch (currentPage) {
       case 'about':
         return <About />;
@@ -29,7 +28,6 @@ function App() {
   };
   return (
     <div>
-      <h1></h1>
       <main>
         <Header currentPage={currentPage} handlePageChange={handlePageChange} />
         <RenderPage />
