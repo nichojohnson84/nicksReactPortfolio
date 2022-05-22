@@ -40,7 +40,7 @@ I had extra help from YouTube and StackOverflow amoung other online resources as
 ## Contact
 ### Questions & Feedback
 
-I can be reached via  
-Email at nickcjohnson84@outlook.com 
-LinkedIn via https://www.linkedin.com/in/nick-johnson-6490911a4/
-Or visit my GitHub page https://github.com/nichojohnson84
+-I can be reached via  
+-Email at nickcjohnson84@outlook.com 
+-LinkedIn via https://www.linkedin.com/in/nick-johnson-6490911a4/
+-Or visit my GitHub page https://github.com/nichojohnson84
