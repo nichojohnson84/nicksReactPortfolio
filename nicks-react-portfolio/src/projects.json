@@ -2,7 +2,7 @@
     {
       "id": 1,
       "name": "Fridgician",
-      "image": "/assets/images/fridgician.jpg",
+      "image": "https://photos.google.com/search/_tra_/photo/AF1QipPSboKqRadJd31ubx2KSGJ0Yo4ISX73rsI_MN_7",
       "github": "https://github.com/Darigay/Fridgician",
       "deployedapp": "https://darigay.github.io/Fridgician/",
       "description": "This is an application for meal planning.  It was specifically designed for last minute meal planners who can enter the ingredients they have and then be provided with an array of recipes from all over the world.",
@@ -11,7 +11,7 @@
       {
       "id": 2,
       "name": "Make My Password",
-      "image": "/assets/images/passsordGenerator.jpg",
+      "image": "https://photos.google.com/search/_tra_/photo/AF1QipMRevl0ZLJNkFn28Cu08f1cwtS0V3tXyoHkWq_P",
       "github": "https://github.com/nichojohnson84/makeMyPassword",
       "deployedapp": "https://nichojohnson84.github.io/makeMyPassword/",
       "description": "An application where a user can input the amount and types of characters they need for a secure password and one will randomly be generated baesd on their input.",
@@ -20,7 +20,7 @@
       {
       "id": 3,
       "name": "My Work Day",
-      "image": "/assets/images/myWorkDay.jpg",
+      "image": "https://photos.google.com/search/_tra_/photo/AF1QipNaFoJ5Wlh3D-OaKyxi1WWQq8lnlkmBMAvJmkcr",
       "github": "https://github.com/nichojohnson84/myWorkDay",
       "deployedapp": "https://nichojohnson84.github.io/myWorkDay/",
       "description": "This project is designed specifically to keep track of what you need to do durring your 9-5 job. It will keep track of the time and date and let you know where you are at and what is coming up based on what you have entered and saved.", 
@@ -29,7 +29,7 @@
       {
       "id": 4,
       "name": "Where is My Money",
-      "image": "/assets/images/budgetTracker.jpg",
+      "image": "https://photos.google.com/search/_tra_/photo/AF1QipOgyhTc65L82yEx7cOZshxLWnH1S24dHBQMXM3c",
       "github": "https://github.com/nichojohnson84/whereIsMyMoney",
       "deployedapp": "https://nw-budget-app.herokuapp.com/",
       "description": "This project is an application that allows users to add expenses and deposits to their budget with or without internet connection.",
@@ -38,7 +38,7 @@
       {
         "id": 5,
         "name": "Note Taker Maker",
-        "image": "/assets/images/budgetTracker.jpg",
+        "image": "https://photos.google.com/search/_tra_/photo/AF1QipMSWDEanQFVII0XmdBDL8zMVFbpeml5hC9L8uL0",
         "github": "https://github.com/nichojohnson84/noteTakerMaker",
         "deployedapp": "https://evening-journey-88259.herokuapp.com/",
         "description": "This application is designed to make a to do list for yourself that won't get lost.  You can create new notes to keep track of everything and there is a trash can funciton to delete them once complete.",

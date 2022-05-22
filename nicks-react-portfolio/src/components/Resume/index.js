@@ -5,7 +5,12 @@ function Resume() {
   return (
     <section>
       <h1 id="resume">My Resume</h1>
-      <a href="../../assets/images/myResume.pdf" alt="Nicks-Resume"></a>
+      <embed
+        src={myResume}
+        type="application/pdf"
+        alt="Nicks-Resume"
+        style={{ height: '85vh', width: '55vw' }}
+      ></embed>
     </section>
   );
 }
