@@ -1,5 +1,5 @@
 import React from 'react';
-import myResume from '../../assets/images/myResume.pdf';
+import myResume from '../../assets/images/myResume.png';
 
 function Resume() {
   return (
@@ -7,9 +7,8 @@ function Resume() {
       <h1 id="resume">My Resume</h1>
       <embed
         src={myResume}
-        type="application/pdf"
         alt="Nicks-Resume"
-        style={{ height: '85vh', width: '55vw' }}
+        style={{ height: '150vh', width: '55vw' }}
       ></embed>
     </section>
   );

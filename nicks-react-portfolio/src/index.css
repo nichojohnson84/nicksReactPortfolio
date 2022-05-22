@@ -26,6 +26,13 @@ p {
   font-family: 'Cinzel', serif;
 }
 
+p1 {
+  font-size: 22px;
+  color: black;
+  font-weight: bold;
+  font-family: 'Cinzel', serif;
+}
+
 h1 {
   margin: auto 30px; 
   padding: 10px;
@@ -68,7 +75,7 @@ h1 {
 
 .school-name {
   font-weight: bolder;
-  color:#788b85
+  color:#140b46
 }
 
 .card {
@@ -92,11 +99,13 @@ h1 {
 .card > .img-container > img {
   width: 100%;
   padding: 25px;
+  border-radius: 5px;
   background-color: rgb(83, 94, 239);
 }
 
 .card > .content {
   padding-right: 1rem;
+  border-radius: 10px;
   font-size: 18px;
   background-color: rgb(44, 130, 154);
   color: #615534;
@@ -105,16 +114,21 @@ h1 {
 
 .card > .content > ul {
   list-style-type: none;
+  border-radius: 10px;
   background-color: rgb(16, 5, 100);
 }
 
 .card > .content > ul > li {
   margin-top: 18px;
+  border-radius: 5px;
   background-color: rgb(6, 10, 248);
+  color:white
 }
 
 .wrapper {
   padding-top: 50px;
+  padding-bottom: 50px;
+  border-radius: 5px;
   height: 100%;
   display: flex;
   flex-flow: row wrap;

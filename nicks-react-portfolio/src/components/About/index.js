@@ -14,7 +14,7 @@ function About() {
           <p class="name">Nick Johnson</p>
           <p class="job">Account Manager and Aspiring Web Developer</p>
           <h2 class="education">Get to know me</h2>
-          <p>
+          <p1>
             Hello, my name is Nick Johnson! I was born and raised in Salt Lake
             City, Utah. I graduated from Cottonwood High School in 2002. From
             there I have had all kinds of jobs but most of them centered around
@@ -40,7 +40,7 @@ function About() {
             building things, and helping people.
             <br></br>
             <br></br>
-          </p>
+          </p1>
         </Col>
       </div>
       <div class="resume-container">

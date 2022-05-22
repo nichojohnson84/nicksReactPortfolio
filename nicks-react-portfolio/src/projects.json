@@ -2,46 +2,46 @@
     {
       "id": 1,
       "name": "Fridgician",
-      "image": "https://photos.google.com/search/_tra_/photo/AF1QipPSboKqRadJd31ubx2KSGJ0Yo4ISX73rsI_MN_7",
+      "image": "https://user-images.githubusercontent.com/94770081/169696889-1d0f2723-1524-4d37-9d88-2846b56bc2ef.png",
       "github": "https://github.com/Darigay/Fridgician",
       "deployedapp": "https://darigay.github.io/Fridgician/",
-      "description": "This is an application for meal planning.  It was specifically designed for last minute meal planners who can enter the ingredients they have and then be provided with an array of recipes from all over the world.",
+      "description": "This is an application for meal planning. Creating with last minute cooking ideas in mind.",
       "skills": "HTML | CSS | JS | Bulma | MealDB API | Edaman API"
       },
       {
       "id": 2,
       "name": "Make My Password",
-      "image": "https://photos.google.com/search/_tra_/photo/AF1QipMRevl0ZLJNkFn28Cu08f1cwtS0V3tXyoHkWq_P",
+      "image": "https://user-images.githubusercontent.com/94770081/169696849-611235b4-24f2-4a4b-b1cd-a5ea0442a576.png",
       "github": "https://github.com/nichojohnson84/makeMyPassword",
       "deployedapp": "https://nichojohnson84.github.io/makeMyPassword/",
-      "description": "An application where a user can input the amount and types of characters they need for a secure password and one will randomly be generated baesd on their input.",
+      "description": "An application to generate a secure password based on chose criteria.",
       "skills": "HTML | CSS | JavaScript"
       },
       {
       "id": 3,
       "name": "My Work Day",
-      "image": "https://photos.google.com/search/_tra_/photo/AF1QipNaFoJ5Wlh3D-OaKyxi1WWQq8lnlkmBMAvJmkcr",
+      "image": "https://user-images.githubusercontent.com/94770081/169696865-283f4aa4-2547-4713-9706-de1f8014d518.png",
       "github": "https://github.com/nichojohnson84/myWorkDay",
       "deployedapp": "https://nichojohnson84.github.io/myWorkDay/",
-      "description": "This project is designed specifically to keep track of what you need to do durring your 9-5 job. It will keep track of the time and date and let you know where you are at and what is coming up based on what you have entered and saved.", 
+      "description": "An application to keep track of your schedule during the day from 9 to 5.", 
       "skills": "HTML | CSS | jQuery | Moment | Javascript"
       },
       {
       "id": 4,
       "name": "Where is My Money",
-      "image": "https://photos.google.com/search/_tra_/photo/AF1QipOgyhTc65L82yEx7cOZshxLWnH1S24dHBQMXM3c",
+      "image": "https://user-images.githubusercontent.com/94770081/169696880-978cee51-efbe-4ca2-b2d1-f8df103a2a88.png",
       "github": "https://github.com/nichojohnson84/whereIsMyMoney",
       "deployedapp": "https://nw-budget-app.herokuapp.com/",
-      "description": "This project is an application that allows users to add expenses and deposits to their budget with or without internet connection.",
+      "description": "An application for keeping track of personal expenses and trends.",
       "skills": "IndexDB | Service Workers | Web Manifest"
       },
       {
         "id": 5,
         "name": "Note Taker Maker",
-        "image": "https://photos.google.com/search/_tra_/photo/AF1QipMSWDEanQFVII0XmdBDL8zMVFbpeml5hC9L8uL0",
+        "image": "https://user-images.githubusercontent.com/94770081/169696857-f1b9d5a3-b8e5-4655-93ba-6d469a0dd12a.png",
         "github": "https://github.com/nichojohnson84/noteTakerMaker",
         "deployedapp": "https://evening-journey-88259.herokuapp.com/",
-        "description": "This application is designed to make a to do list for yourself that won't get lost.  You can create new notes to keep track of everything and there is a trash can funciton to delete them once complete.",
+        "description": "A way of creating an easy online to-do list.",
         "skills": "HTML | CSS | NODE | Express | Heroku"
         }
       
