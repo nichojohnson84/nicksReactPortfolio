@@ -21,7 +21,7 @@ code {
 
 p {
   font-size: 22px;
-  color: #0e0130;
+  color: white;
   font-weight: bold;
   font-family: 'Cinzel', serif;
 }
@@ -72,13 +72,13 @@ h1 {
 }
 
 .card {
-  background-color: rgb(111, 187, 208);
+  background-color: rgb(44, 130, 154);
   border-radius: 2px;
   height: 525px;
   margin: 1rem;
   position: relative;
   width: 325px;
-  box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+  box-shadow: 0 3px 6px rgb(25, 16, 90), 0 3px 6px rgb(25, 16, 90);
   text-align: left;
 }
 
@@ -87,7 +87,7 @@ h1 {
   overflow: hidden;
   text-align: center;
   border-radius: 10px;
-  background-color: rgb(111, 187, 208);;
+  background-color: rgb(18, 128, 159);;
 }
 .card > .img-container > img {
   width: 100%;
@@ -98,19 +98,19 @@ h1 {
 .card > .content {
   padding-right: 1rem;
   font-size: 18px;
-  background-color: rgb(111, 187, 208);
+  background-color: rgb(44, 130, 154);
   color: #615534;
   font-weight: bold;
 }
 
 .card > .content > ul {
   list-style-type: none;
-  background-color: white;
+  background-color: rgb(16, 5, 100);
 }
 
 .card > .content > ul > li {
   margin-top: 18px;
-  background-color: white;
+  background-color: rgb(6, 10, 248);
 }
 
 .wrapper {
@@ -139,21 +139,21 @@ h1 {
 }
 
 #port-icon {
-  background-color: white;
+  background-color: rgb(246, 246, 253);
   margin: 0px 20px;
 }
 
 .project-title {
-  background-color: white;
+  background-color: rgb(6, 10, 248);
   font-weight: bold;
   font-family: 'Cinzel', serif;
 
 }
 
 .project-description {
+  color: white;
   background-color: rgb(102, 117, 155);
-  font-weight: normal;
-  color: black;
+  font-weight: normal
 }
 
 .project-icons {
