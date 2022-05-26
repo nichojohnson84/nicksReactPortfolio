@@ -1,44 +1,46 @@
 # nicksReactPortfolio
 
-GIVEN a single-page application portfolio for a web developer
-WHEN I load the portfolio
-THEN I am presented with a page containing a header, a section for content, and a footer
-WHEN I view the header
-THEN I am presented with the developer's name and navigation with titles corresponding to different sections of the portfolio
-WHEN I view the navigation titles
-THEN I am presented with the titles About Me, Portfolio, Contact, and Resume, and the title corresponding to the current section is highlighted
-WHEN I click on a navigation title
-THEN I am presented with the corresponding section below the navigation without the page reloading and that title is highlighted
-WHEN I load the portfolio the first time
-THEN the About Me title and section are selected by default
-WHEN I am presented with the About Me section
-THEN I see a recent photo or avatar of the developer and a short bio about them
-WHEN I am presented with the Portfolio section
-THEN I see titled images of six of the developer’s applications with links to both the deployed applications and the corresponding GitHub repository
-WHEN I am presented with the Contact section
-THEN I see a contact form with fields for a name, an email address, and a message
-WHEN I move my cursor out of one of the form fields without entering text
-THEN I receive a notification that this field is required
-WHEN I enter text into the email address field
-THEN I receive a notification if I have entered an invalid email address
-WHEN I am presented with the Resume section
-THEN I see a link to a downloadable resume and a list of the developer’s proficiencies
-WHEN I view the footer
-THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter)
+Using React I have created a profile/bio page that I can not only showcase my skills with React upon, but I can also show off my other projects and inlcude my resume and have ways for people to contact me.
 
-# Actual Readme
-Description
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
 * [Contributers](#contributers)
 * [Contact](#contact)
-Installation
-Usage
-screenshot of about me page
-License
+
+## Installation
+
+-Once the repository is downloaded simply run "npm install" to get all of the files and modules you need.  At that point you can use npm start to run it on a local host or you can deploy the page to GitHub or any other site that you can deploy a repository from.  For my site I used the following steps for GitHub.
+
+-npm install -D gh-pages
+
+-At this point you do want to make sure you have the necessary hompage and scripts added to your package.json file.  The homepage will be your GitHub page once deployed "homepage": "http://<username>.github.io/<name-of-repository and then you want to make sure the necessary scripts are added.
+  
+-npm run deploy
+
+And you are off!
+
+## Usage
+
+This can be used to showcase your talents as a webdeveloper or just as a site for other people to get to know you better (but you can show off your web development skills at the same time)
+
+sample image
+![react-portfolio-pic](https://user-images.githubusercontent.com/94770081/169705339-4e43e0c2-e8f8-46c7-8a5d-9c0faa660580.png)
+
+## License
+
+-MIT
+
 Contributors
-Tests
-Contact
-Questions & Feedback
+
+-The AMAZING teaching and TA staff of my Bootcamp: UofU-VIRT-BO-FSF-PT-12-2021-U-B-MW
+I had extra help from YouTube and StackOverflow amoung other online resources as well.
+
+## Contact
+### Questions & Feedback
+
+-I can be reached via  
+-Email at nickcjohnson84@outlook.com 
+-LinkedIn via https://www.linkedin.com/in/nick-johnson-6490911a4/
+-Or visit my GitHub page https://github.com/nichojohnson84
