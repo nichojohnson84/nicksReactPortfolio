@@ -43,6 +43,15 @@
         "deployedapp": "https://evening-journey-88259.herokuapp.com/",
         "description": "A way of creating an easy online to-do list.",
         "skills": "HTML | CSS | NODE | Express | Heroku"
-        }
+        },
+        {
+          "id": 6,
+          "name": "StumpMe",
+          "image": "https://user-images.githubusercontent.com/94770081/170418499-d01a92af-0453-45a6-8510-78e6523a7372.png",
+          "github": "https://github.com/jwputah/Stump-Me.git",
+          "deployedapp": "https://gentle-scrubland-60701.herokuapp.com/",
+          "description": "A trivia game that you can play by yourself, compete against friend, or play with a group.",
+          "skills": "HTML | CSS | NODE | Express | Heroku | MERN"
+          }
       
   ]
